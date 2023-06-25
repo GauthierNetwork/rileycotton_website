@@ -8,7 +8,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Editor directories and files
-.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
 .idea/
 *.iml
 .DS_Store
